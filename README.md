@@ -14,18 +14,18 @@
   <a href="https://t.me/yanoffc"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
   <a href="https://github.com/yanoffc"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="https://youtube.com/@BANGYANOFFICIAL?si=BOvo8hxdtiOwDiZn"><br>
-  <a href="https://komarev.com/ghpvc/?username=YanOFC&color=blue&style=flat-square&label=Profile+Dilihat"><img src="https://komarev.com/ghpvc/?username=YanOFC&color=blue&style=flat-square&label=Profile+Dilihat" />
+  <a href="https://komarev.com/ghpvc/?username=yanoffc&color=blue&style=flat-square&label=Profile+Dilihat"><img src="https://komarev.com/ghpvc/?username=yanoffc&color=blue&style=flat-square&label=Profile+Dilihat" />
 
 </p>
 
  # Github stats
 <p>
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YanOFC&theme=dracula)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yanoffc&theme=dracula)
 </p>
 <p>
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YanOFC&theme=dracula)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yanoffc&theme=dracula)
 </p>
 
 ## Donate
